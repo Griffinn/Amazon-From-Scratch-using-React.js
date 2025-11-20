@@ -1,6 +1,5 @@
 ## Amazon Clone from Scratch - Practice
-
-Created a full-stack Amazon Clone web app replicating Amazon.com's functionality. Features include a user-friendly design, user authentication, a shopping cart, a secure payment gateway, and essential e-commerce pages (login, checkout, payment, and order history). Gain hands-on experience in full-stack web development, resulting in a seamless and dynamic product catalog.
+Created a full-stack, comprehensive Amazon Clone web application, mirroring the functionality and aesthetics of Amazon.com. Emphasized user-friendly design, incorporating user authentication and registration systems for personalized experiences, an intuitive shopping cart system with dynamic product management, and a secure payment gateway. Additionally, the project included key e-commerce pages such as login, checkout, payment, and order history. Gained hands-on experience in full-stack web development and created a robust platform with seamless navigation and a dynamic product catalog.
 
 ## Landing Page
 
